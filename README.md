@@ -22,6 +22,24 @@ Desenvolvido por **Vausnicler Furin** — [vausnicler.dev](https://vausnicler.de
 |:---:|:---:|
 | ![desktop grid](screenshots/desktop_grid_5.png) | ![desktop carrossel](screenshots/desktop_carrossel.png) |
 
+**Grid completo:**
+
+![grid](screenshots/grid.png)
+
+**Painel Admin:**
+
+![admin 1](screenshots/grid-admin-1.png)
+![admin 2](screenshots/grid-admin-2.png)
+
+---
+
+---:|:---:|
+| ![mobile fixo](screenshots/mobile_modo_fixo.png) | ![mobile carrossel](screenshots/mobile_carrossel.png) |
+
+| Desktop — Grid estático (5 cards) | Desktop — Carrossel (6+ cards) |
+|:---:|:---:|
+| ![desktop grid](screenshots/desktop_grid_5.png) | ![desktop carrossel](screenshots/desktop_carrossel.png) |
+
 **Painel Admin:**
 
 ![admin painel](screenshots/admin_painel.png)
